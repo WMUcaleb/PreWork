@@ -1,38 +1,29 @@
-# Pre-work - Tip Calculator
+# Flix
 
-*Tip Calculator is a tip calculator application for iOS.
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Submitted by: Caleb Harrington
+📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
-Time spent: 1 hour spent in total
+---
 
-## User Stories
-
-The following **required** functionality is complete:
-
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/79730941/131713170-214c8554-946e-4e09-adfc-af853cbe7d10.gif)
+## Flix Part 1
 
 
-## Notes
+#### REQUIRED (10pts)
+- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [ ] (3pts) User can view the movie poster image for each movie.
 
+#### BONUS
+- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [ ] (1pt) Run your app on a real device.
+
+### App Walkthrough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+<img src="https://ezgif.com/video-to-gif/ezgif-2-369766489a42.mov" width=250><br>
+
+### Notes
 Describe any challenges encountered while building the app.
 
 ## License
